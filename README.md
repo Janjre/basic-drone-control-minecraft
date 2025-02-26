@@ -9,7 +9,7 @@ All the files are in computer/1
 The Input controllers take numerous binary inputs and turn them into a number 0-15.
 The inputs are then read and decoded by the drone.lua scripts, which then outputs what amount of resistance should be sent to the propellers.
 
-## Loading the scheematic
+## Loading the schematic
 Download the schematic. You can load it with a schematicanon or other mods.
 Give the top computer InputControl.lua
 Give the central computer drone.lua
